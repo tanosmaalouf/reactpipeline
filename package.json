@@ -1,6 +1,6 @@
 {
-  "name": "pipeline-example",
   "homepage": "https://tanosmaalouf.github.io/CI-CD-example ",
+  "name": "pipeline-example",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
